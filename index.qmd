@@ -1,7 +1,7 @@
 ---
 title: "Week 6"
 subtitle: "Quarto for Data Communication"
-format: html
+format: revealjs
 execute: 
   warning: false
 editor_options: 
